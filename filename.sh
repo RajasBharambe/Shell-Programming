@@ -1,5 +1,4 @@
 ls
-
 ls -1
 ls -l
 ls -a
